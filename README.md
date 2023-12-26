@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Amazone EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazone S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
 
 ### Development
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="![미모티콘](https://github.com/fjqmqjrm/unilearn-backend/assets/126189239/625337c3-851c-41a9-8210-5f9b4e4f4f15)
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://github.com/fjqmqjrm/unilearn-backend/assets/126189239/625337c3-851c-41a9-8210-5f9b4e4f4f15
 "> <img src="https://img.shields.io/badge/Gmail SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
 
 ### Communication
