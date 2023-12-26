@@ -15,8 +15,7 @@
 ## 👩🏻‍🎓 Backend Developer
 > 멋쟁이 사자처럼 서울여자대학교 11기 1팀<br>개발기간: 2023.10 ~ 2023.11
 
-|<img src="https://github.com/ppparkta/42seoul/assets/86940801/1b12cc6e-1bc1-4bf0-a24c-00e25e137cc6" width="200px">|<img src="https://github.com/ppparkta/42seoul/assets/86940801/21371a5a-525d-4515-8ad0-0e4fd8cfd5db" width="100px">|<img src="https://github.com/fjqmqjrm/unilearn-backend/assets/126189239/a549d4f8-b83d-4a55-a5e8-b67516de47ed
-">|<img src="https://github.com/ppparkta/42seoul/assets/86940801/2cd359c3-d90e-41bc-aadf-a22ebfa4e9bd" width="200px">|
+|<img src="https://github.com/ppparkta/42seoul/assets/86940801/1b12cc6e-1bc1-4bf0-a24c-00e25e137cc6" width="200px">|<img src="https://github.com/ppparkta/42seoul/assets/86940801/21371a5a-525d-4515-8ad0-0e4fd8cfd5db" width="100px">|<img src="https://github.com/ppparkta/42seoul/assets/86940801/f6f96be6-9a7f-40bb-9a13-051fb1b4aecd" width="200px">|<img src="https://github.com/ppparkta/42seoul/assets/86940801/2cd359c3-d90e-41bc-aadf-a22ebfa4e9bd" width="200px">|
 |:-:|:-:|:-:|:-:|
 |김성주|김한선|박서윤|양수빈|
 |개설과목 전체 조회<br>과제게시판 처리 로직<br>퀴즈 게시판 처리 로직<br>댓글 처리 로직|스터디 전체/상세 조회 로직<br>스터디 생성 로직<br>스터디 내용 수정 및 상태 수정 로직<br>스터디 참여폼 작성/승인/조회/취소 로직<br>스터디원 조회 로직|스터디 상세 과제&일정 <br>과제 게시글 처리 로직<br>과제 제출 게시글 처리 로직<br>상호 평가 및 온도 반영 <br>스터디 일정 처리 로직|팀 회의 일정 및 회의록 관리<br>깃이슈 교육을 통한 개발 진행도 관리<br>데이터베이스 설계 및 ORM<br>JWT 인증/인가 구현<br>지메일 SMTP 이메일 인증 절차 구현<br>사용자 수강과목CRUD API 구현<br>AWS S3 이미지 저장<br>AWS EC2 서버 배포|
